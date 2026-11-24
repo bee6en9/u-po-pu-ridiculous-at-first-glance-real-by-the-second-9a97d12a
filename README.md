@@ -16,6 +16,6 @@ node main.ts
 
 It writes the pitch deterministically to `/output/entry.txt`.
 
-Bounty: https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a
+Bounty: [Ridiculous at First Glance, Real by the Second on make.fun](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
 
 Referral code: vfk2n47z
